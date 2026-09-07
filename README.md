@@ -16,7 +16,7 @@ To analyze how agricultural performance varies across seasons and provide data-d
 - Season-wise comparison of yield, profit, and resource usage
 - Correlation analysis between environmental factors and yield
 - Irrigation method efficiency comparison
-- Crop-wise performance across seasons
+- Crop-wise performance across seasons 
 - Statistical significance testing (ANOVA)
 - Insights and recommendations based on findings
 
